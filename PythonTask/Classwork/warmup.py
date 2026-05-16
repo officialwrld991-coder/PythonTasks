@@ -1,7 +1,5 @@
-age = input("enter age: ")
-age = int(age)
-
-if age >= 18:
-    print("adult")
-elif age >= 13:
-    print("teen")
+   def name_count (name):
+    
+    
+    
+    
